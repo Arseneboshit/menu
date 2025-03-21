@@ -1,0 +1,44 @@
+img {
+    width: 800px;
+    height: 800px;
+    margin: 30px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+   
+    
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+    line-height: 1.5;
+    width: 400px;
+}
+
+.burger {
+    display: flex;
+}
+
+.header {
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 1;
+    margin-bottom: -20px;
+}
+
+.cal {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+    height: 65px;
+}
+
+.description {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+}
